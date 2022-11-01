@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# history file
+# local challenge files
 history.csv
+temp.csv
 
 # Distribution / packaging
 .Python
