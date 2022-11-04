@@ -3,7 +3,7 @@
 
 <p> Project House Price Prediction Challenge (HPPC) is a 4-day assignment given by Avans Hogeschool in the Data Science for the Smart Industry minor on 31/10/2022. The original challenge can be found on <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">Kaggle</a>. The purpose of this challenge is to test the students ability to successfully make predictions based on historical data and evaluate the results. The given case of this challenge is to prediction house prices based on an unprepared dataset of around 80 columns and 1460 rows. This dataset can be found <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data">here</a>. </p>
 
-<p> This markdown is intended for demonstrating the solution made by the HPPC-team. On this page, every collection of cells will be described in a way that explains what has been done and why it has been done. For the IPython variant, displaying the cell output, visit the <a href="https://github.com/Bartinos/house-price-prediction-challenge/blob/development/model.ipynb">model</a>. The solution is structured in 4 sections:
+<p> This markdown is intended for demonstrating the solution made by the HPPC-team. On this page, every collection of cells will be described in a way that explains what has been done and why it has been done. For the IPython variant, displaying the cell output, visit the <a href="https://github.com/Bartinos/house-price-prediction-challenge/blob/main/model.ipynb">model</a>. The solution is structured in 4 sections:
 
 *   Importing the right modules
 *   Pre-processing the data
